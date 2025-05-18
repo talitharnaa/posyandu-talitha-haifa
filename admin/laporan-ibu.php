@@ -1,5 +1,5 @@
 <?php
-$page_title = "Laporan Anak";
+$page_title = "Laporan Ibu Hamil";
 require_once 'includes/header.php';
 require_once 'includes/navbar.php';
 

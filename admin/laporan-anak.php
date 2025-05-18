@@ -54,7 +54,7 @@ $data_kesehatan = $stmt->fetchAll();
 
 <div class="container py-4">
     <div class="d-flex justify-content-between align-items-center mb-4">
-        <h2 class="fw-bold">Data Kesehatan Detil</h2>
+        <h2 class="fw-bold">Data Kesehatan Detail</h2>
     </div>
 
     <table id="data-kesehatan" class="table table-striped datatables-default">
